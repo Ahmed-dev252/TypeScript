@@ -1,0 +1,11 @@
+"use strict";
+let names = ["John Doe"];
+let grades = [85];
+let statuse = [85];
+console.log(names);
+console.log(grades);
+console.log(statuse);
+let product = ["Phone", "Laptop", 99];
+console.log(product);
+let locations = ["mogadishu", 34, 45];
+console.log(locations);
